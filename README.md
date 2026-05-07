@@ -1,5 +1,7 @@
 # Blog Template
 
+<img width="1727" height="997" alt="Screenshot 2026-05-06 210908" src="https://github.com/user-attachments/assets/c110200f-941b-4551-990b-c3245e6f7333" />
+
 A minimal blog template built with SvelteKit. Dark theme, sidebar navigation, searchable post list, and previous/next post navigation.
 
 ## Quick start
