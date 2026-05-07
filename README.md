@@ -35,7 +35,7 @@ These are used in the sidebar and home page. That's the only file you need to to
 {
     "slug": "3",
     "title": "my new post",
-    "date": "May 10, 2026"
+    "date": "May 30, 2026"
 }
 ```
 
