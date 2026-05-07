@@ -1,0 +1,12 @@
+[
+	{
+		"slug": "1",
+		"title": "hello world",
+		"date": "May 6, 2026"
+	},
+	{
+		"slug": "2",
+		"title": "a second post",
+		"date": "May 20, 2026"
+	}
+]
